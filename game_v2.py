@@ -6,7 +6,7 @@ import numpy as np
 
 
 def random_predict(number: int = 1) -> int:
-    """Рандомно угадываем число
+    """Угадываем число, сужая диапазон
 
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
@@ -15,13 +15,21 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
+    low = 1
+    high = 100
 
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101)  # предполагаемое число
-        if number == predict_number:
-            break  # выход из цикла если угадали
+        predict_number = (low + high) // 2  # Предполагаемое число - середина текущего диапазона
+        if predict_number == number:
+            break  # Выход из цикла, если угадали
+        elif predict_number < number:
+            low = predict_number + 1  # Сужаем диапазон до верхней половины
+        else:
+            high = predict_number - 1  # Сужаем диапазон до нижней половины
+
     return count
+
 
 
 def score_game(random_predict) -> int:
