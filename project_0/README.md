@@ -43,6 +43,7 @@
 
 
 ### Результаты:  
+Алгоритм угадывает число в среднем за 5 попыток.
 [Резульатат в .ipynb](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.ipynb)
 
 
