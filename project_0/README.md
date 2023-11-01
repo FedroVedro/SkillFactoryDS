@@ -38,7 +38,7 @@
 1. [Разработка простой игры](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.py)
 2. [Разработка второй версии игры с дальнейшим улучшением](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game_v2.py)
 3. [Разработка Notebook для простого интерфейса](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.ipynb)
-
+4. Код сделан воспроизводимым
 :arrow_up:[к оглавлению](https://github.com/FedroVedro/SkillFactoryDS/tree/master/project_0#оглавление)
 
 
@@ -51,7 +51,7 @@
 
 
 ### Выводы:  
-Была разработнна простая игра, уоторая угадывает загаданное компьютером число за минимальное число попыток. Для уменьшения количества попыток, было использованно сужение диапазона.
+Была разработнна простая игра, уоторая угадывает загаданное компьютером число за минимальное число попыток. Для уменьшения количества попыток, было использованно сужение диапазона. Код сделан воспроизводимым.
 
 :arrow_up:[к оглавлению](https://github.com/FedroVedro/SkillFactoryDS/tree/master/project_0#оглавление)
 
