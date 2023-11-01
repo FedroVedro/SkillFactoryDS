@@ -35,13 +35,16 @@
 
 
 ### Этапы работы над проектом  
-....
+1. [Разработка простой игры](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.py)
+2. [Разработка второй версии игры с дальнейшим улучшением](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game_v2.py)
+3. [Разработка Notebook для простого интерфейса](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/FedroVedro/SkillFactoryDS/tree/master/project_0#оглавление)
 
 
 ### Результаты:  
-....
+[Резульатат в .ipynb](https://github.com/FedroVedro/SkillFactoryDS/blob/master/project_0/game.ipynb)
+
 
 :arrow_up:[к оглавлению](https://github.com/FedroVedro/SkillFactoryDS/tree/master/project_0#оглавление)
 
