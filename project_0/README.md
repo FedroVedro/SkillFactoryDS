@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#https://github.com/FedroVedro/SkillFactoryDS/tree/master/project_0#описание-проекта)  
+[1. Описание проекта](.README.md#https://vscode.dev/github/FedroVedro/SkillFactoryDS/blob/master/project_0/README.md?plain=1#L11)  
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
