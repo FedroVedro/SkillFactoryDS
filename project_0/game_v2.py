@@ -27,7 +27,7 @@ def random_predict(number: int = 1) -> int:
             low = predict_number + 1  # Сужаем диапазон до верхней половины
         else:
             high = predict_number - 1  # Сужаем диапазон до нижней половины
-
+    
     return count
 
 
